@@ -5,7 +5,7 @@
 
 Audit de TTFB, compression de donnees, scripts bloquants et stabilite visuelle selon les standards W3C.
 
-Developpe et maintenu par la division de performance web et d'architecture de chargement de **TAVARDT France**.
+Developpe et maintenu par la division de performance web et d'architecture de chargement de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python cwv_tester.py https://entreprise.fr -json
 Pour les analyses de performance et simulations d'affichage approfondies:
 
 * **Testeur de Core Web Vitals Officiel**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Optimisation et Performance Web
 
-Pour accelerer vos plateformes selon les normes Normes W3C et Recommandations de Performance Web, consultez l'equipe de **TAVARDT France**.
+Pour accelerer vos plateformes selon les normes Normes W3C et Recommandations de Performance Web, consultez l'equipe de **TAVARDT**.
 
 ***
 
