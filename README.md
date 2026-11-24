@@ -49,3 +49,7 @@ Pour les analyses de performance et simulations d'affichage approfondies:
 ## Conseil en Optimisation et Performance Web
 
 Pour accelerer vos plateformes selon les normes Normes W3C et Recommandations de Performance Web, consultez l'equipe de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
