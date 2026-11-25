@@ -2,6 +2,7 @@
 
 [![Test Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/fr/test-core-web-vitals-google/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit de TTFB, compression de donnees, scripts bloquants et stabilite visuelle selon les standards W3C.
 
@@ -57,6 +58,11 @@ Pour accelerer vos plateformes selon les normes Normes W3C et Recommandations de
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
